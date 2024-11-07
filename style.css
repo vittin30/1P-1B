@@ -3,9 +3,25 @@ body{
 }
 
 h1{
-    color: rgb(226, 43, 128);
-    text-align: center;
+    margin: 50px;
+    padding: 30px;
+    border-radius: 20px;
 }
+
+main{
+    background-color: aqua;
+    padding: 30px;
+}
+
+.cabeçalho{
+    background-color: black;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
 a{
     color: crimson;
     text-align: center;

@@ -1,11 +1,8 @@
 body{
     background-color: blue;
-}
-
-h1{
-    margin: 50px;
-    padding: 30px;
-    border-radius: 20px;
+    color: blueviolet;
+    text-align: center;
+    margin: 0;
 }
 
 main{
@@ -24,6 +21,8 @@ main{
 
 a{
     color: crimson;
-    text-align: center;
+    padding: 20px;
+    font-size: 24px;
+    text-decoration: none;
 
 }
